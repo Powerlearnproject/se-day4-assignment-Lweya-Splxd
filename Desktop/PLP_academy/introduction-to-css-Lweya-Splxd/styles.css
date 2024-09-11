@@ -27,7 +27,7 @@ display: inline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 div{
-    display: inline-flex;
+    display: inline;
     padding: auto;
     border: 10px;
 color: Black;
